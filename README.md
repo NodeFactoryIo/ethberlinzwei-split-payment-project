@@ -1,16 +1,15 @@
 # ethberlinzwei-split-payment-project
 Index repo with documentation and relevant links
 
-
-
 ## About
 
 Slides:
 https://docs.google.com/presentation/d/1J2JQE9DAj0vF7r5R4W--GuieLPmOxKr5EMR1mcwhTcE/edit?usp=sharing
 
-TODO: add demo video
+Demo video: 
+https://drive.google.com/file/d/1NKfygEp9y7yGD-TPZ1SVSvqURbxmwHRn/view?usp=sharing
 
-SDK documentation - https://nodefactoryio.github.io/split-payment-sdk/
+SDK documentation: https://nodefactoryio.github.io/split-payment-sdk/
 
 ## Team
 
